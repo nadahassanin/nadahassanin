@@ -77,3 +77,36 @@ class About extends Me {
 Code Cycle<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br> </div> ```
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZ4bm9oZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="40%"/><br> 
+
+<h1>Hi, I'm Nada Hassanein 👋</h1>
+
+**Freelance Software Engineer | GDG Instructor @ MUST University**
+
+![Views](https://komarev.com/ghpvc/?username=NadaHassanein&style=flat&color=pink&label=PROFILE+VIEWS)
+
+</div>
+
+<hr>
+
+### 🌟 About Me
+- 💻 **Freelance Full Stack Developer**: Specializing in building end-to-end applications.
+- 👩‍🏫 **GDG Instructor**: Teaching and mentoring students at **Misr University for Science and Technology**.
+- 🚀 **Tech Passion**: Loves working with **Angular**, **React**, and **.NET Core**.
+- 🧠 **Problem Solver**: Experienced in competitive programming and camp volunteering.
+
+### 🛠️ My Tech Stack
+
+| Frontend | Backend | Database | Tools |
+| :--- | :--- | :--- | :--- |
+| Angular, React | .NET Core, C# | SQL Server | Git, VS Code |
+
+```csharp
+public class SoftwareEngineer : NadaHassanein {
+    public string Role => "Freelance Developer & GDG Instructor";
+    public string[] Skills => new[] { "Angular", "React", ".NET", "SQL" };
+    public string Location => "Egypt";
+}
