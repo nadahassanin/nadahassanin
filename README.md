@@ -1,6 +1,13 @@
-<h1 align="center">Hi there! I'm Nada 👋</h1>
+
 
 <div align="center" width="50">
+
+
+
+<div align="center">
+  <h1>Hi there, I'm Nada Hassanein 👩‍💻</h1>
+  <p><b>Freelance Full Stack Engineer @ MUST University 🚀</b></p>
+  <p><i>Building impactful solutions with clean code.</i></p>
 
 
 ...
@@ -83,21 +90,4 @@ Code Cycle<br>
 
 <hr>
 
-### 🌟 About Me
-- 💻 **Freelance Full Stack Developer**: Specializing in building end-to-end applications.
-- 👩‍🏫 **GDG Instructor**: Teaching and mentoring students at **Misr University for Science and Technology**.
-- 🚀 **Tech Passion**: Loves working with **Angular**, **React**, and **.NET Core**.
-- 🧠 **Problem Solver**: Experienced in competitive programming and camp volunteering.
 
-### 🛠️ My Tech Stack
-
-| Frontend | Backend | Database | Tools |
-| :--- | :--- | :--- | :--- |
-| Angular, React | .NET Core, C# | SQL Server | Git, VS Code |
-
-```csharp
-public class SoftwareEngineer : NadaHassanein {
-    public string Role => "Freelance Developer & GDG Instructor";
-    public string[] Skills => new[] { "Angular", "React", ".NET", "SQL" };
-    public string Location => "Egypt";
-}
