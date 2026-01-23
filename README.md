@@ -30,7 +30,36 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourGitHubUsername&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/Telegram-Message-blue?style=flat&logo=telegram)](https://t.me/YourUsername) <br>
 </div>
+<a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile_Views-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
 
+<hr>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h3>🚀 My Tech Stack</h3>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br>
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h3>📊 Featured Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=radical&bg_color=1a1b27&hide_border=true" width="100%">
+</div>
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
