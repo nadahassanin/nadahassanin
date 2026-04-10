@@ -7,9 +7,8 @@
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="280px"/>
-
-<br>
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/102/051/original/anat-levy-9-8-2020-girl-and-stars.gif?1593451253" width="380px" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+<br><br>
 
 [![Telegram](https://img.shields.io/badge/Connect-Telegram-EF9A9A?style=outline&logo=telegram&logoColor=EF9A9A)](https://t.me/spxd007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-EF9A9A?style=outline&logo=linkedin&logoColor=EF9A9A)](YOUR_LINKEDIN_URL)
@@ -52,13 +51,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SP-XD&theme=rose&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SP-XD&theme=tokyonight&hide_border=true" width="80%" />
-</div>
-
 <br>
 
 <div align="center">
-  <p><i>"The best way to predict the future is to implement it."</i></p>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-XD&layout=compact&theme=rose&hide_border=true" width="45%" />
+</div>
+
+<hr>
+
+<div align="center">
+  <p><i>"The most beautiful thing about code is that you can build the future with it."</i></p>
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/this_page_is.gif?raw=true" width="250px"/>
 </div>
